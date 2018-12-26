@@ -14,3 +14,7 @@ Task :
  
 Document your assumptions.
 Note: Please google about how chitfund works, incase if you are not familiar with the mechanism! 
+
+
+
+Thus with the provided Dataset of 25 months of the chit fund, i have created the following solution in python notebook.
