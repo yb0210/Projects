@@ -1,0 +1,12 @@
+Task:
+
+Find out the temprature closest to zero from the entered Data.
+  The input n will be of number of tempratures 
+  Enter the List of different temprature data recored(seprated by space)
+
+For any minimum diffrence temprature also in -ve and +ve, take the +ve result
+example:
+     in a list if 2 and -2 are present as closest to zero at same difference then result will be 2deg.
+     
+     
+Considering the above make a solution in python.
