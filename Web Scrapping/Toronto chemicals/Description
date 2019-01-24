@@ -1,3 +1,7 @@
 web scrapping program which will read the web list of TORONTO RESEARCH CHEMICALS and its diffrent labels and print the group of it.
 
 this program will print the first 30 chemical description from "https://www.trc-canada.com/products-listing"
+
+
+For some reason github is not showing the otput text formatting done for the labels in bold characters
+b is denoted for start of bold and be is fo end of bold format.
